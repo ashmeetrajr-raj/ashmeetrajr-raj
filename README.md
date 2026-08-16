@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Ashmeet Raj 👋
 
-<!--
-**ashmeetrajr-raj/ashmeetrajr-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 I'm currently learning Java, Data Structures & Algorithms, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Learning
+
+- ☕ Java
+- 🧩 Data Structures & Algorithms
+- 🌐 HTML, CSS & JavaScript
+- ⚛️ React — upcoming
+- 💡 Problem Solving
+
+🛠️ Skills
+
+- Java
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+📌 Current Focus
+
+Improving my programming fundamentals, DSA and building practical web development projects.
+
+🎯 Goal
+
+To become a strong software developer by consistently learning, solving problems and building real-world projects.
+
+📫 Connect With Me
+
+GitHub: Ashmeet Raj
