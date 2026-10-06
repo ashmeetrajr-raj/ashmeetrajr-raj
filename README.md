@@ -1,34 +1,72 @@
-Hi, I'm Ashmeet Raj 👋
+<div align="center">
 
-🎓 BTech Computer Science Engineering Student
+# 👋 Hi, I'm Ashmeet Raj
 
-💻 I'm currently learning Java, Data Structures & Algorithms, and Web Development.
+### 💻 Software Developer | Full Stack Developer | CSE Student
 
-🚀 What I'm Learning
+🚀 Building projects • 🤖 Exploring AI • 📚 Learning every day
 
-- ☕ Java
-- 🧩 Data Structures & Algorithms
-- 🌐 HTML, CSS & JavaScript
-- ⚛️ React — upcoming
-- 💡 Problem Solving
+</div>
 
-🛠️ Skills
+---
 
-- Java
-- C++
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+## 👨‍💻 About Me
 
-📌 Current Focus
+I'm a B.Tech Computer Science student passionate about software development,
+web technologies, AI, and solving real-world problems through technology.
 
-Improving my programming fundamentals, DSA and building practical web development projects.
+- 🎓 B.Tech CSE
+- 💻 Interested in Full Stack Development
+- 🤖 Exploring AI & emerging technologies
+- 🚀 Building practical projects
+- 📚 Currently learning Java, DSA, React & Backend Development
 
-🎯 Goal
+---
 
-To become a strong software developer by consistently learning, solving problems and building real-world projects.
+## 🛠️ Tech Stack
 
-📫 Connect With Me
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
+</p>
 
-GitHub: Ashmeet Raj
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Student Management System
+C++ based student management system using OOP and file handling.
+
+### 🤖 College Helpdesk Chatbot
+A rule-based chatbot designed to answer common college-related queries.
+
+### 🏔️ Civic Lens AI
+An AI-based concept focused on solving real-world civic problems.
+
+### 🌾 Farmer Connect
+A technology-based platform designed to connect farmers with useful digital services.
+
+### 🌐 Personal Portfolio
+A responsive portfolio website showcasing my skills and projects.
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+DSA
+React
+Node.js
+Backend Development
+AI & Machine Learning
